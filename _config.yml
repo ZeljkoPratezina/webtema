@@ -7,7 +7,7 @@ url: "https://zeljkopratezina.github.io/webtema/"
 # Delete the lines you don't need
 # about 5 elements are recomended
 github_username:  ZeljkoPratezina
-google_plus_username: +109265127768096405971
+google_plus_username: /109265127768096405971/
 linkedin_username: zeljkopratezina
 soundcloud_username:  your_soundcloud_username_goes_here
 stack_of_username: zeljkopratezina
@@ -19,7 +19,6 @@ lastfm_username: your_lastfm_username_goes_here
 blog_url: "/blog"
 email: pratezina.zeljko@gmail.com
 public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
-- jekyll-autolink_email
 
 avatar: yes
 #avatar_img_path: "imgs/avatar.jpg""
@@ -27,11 +26,9 @@ avatar: yes
 # automatically whenever you change your GitHub profile picture
 avatar_img_path: "https://avatars2.githubusercontent.com/ZeljkoPratezina"
 
-
 front_img: yes
 front_img_path: "imgs/background.jpg"
 #front_img_path: "https://external.url/image.jpg"
-
 
 favicon_img: yes
 favicon_img_path: "imgs/favicon.ico"
@@ -41,3 +38,6 @@ favicon_img_path: "imgs/favicon.ico"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems:
+  - jekyll-autolink_email
