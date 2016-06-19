@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # front cover jekyll theme
 
 ## Why choose this jekyll theme for your front page?
@@ -16,3 +17,8 @@ It's licensed under Creative-Commons.
 
 This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
 
+||||||| merged common ancestors
+=======
+# webtema
+webtema test
+>>>>>>> refs/remotes/origin/master
